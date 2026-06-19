@@ -1,6 +1,6 @@
 import type { Character, Mood } from "./types";
-import haruImg from "../assets/haru.png";
-import yukiImg from "../assets/yuki.png";
+import haruImg from "../assets/haru.webp";
+import yukiImg from "../assets/yuki.webp";
 
 export type CharacterProfile = {
   id: Character;
