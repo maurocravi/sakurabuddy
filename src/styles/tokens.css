@@ -1,0 +1,36 @@
+:root {
+  /* Paleta Electric Coral */
+  --primary: #ff6b6b;
+  --primary-dark: #ee5a70;
+  --accent: #574b90;
+  --accent-mid: #c44569;
+  --bg: #fffaf8;
+  --surface: #ffffff;
+  --text-primary: #2d2d2d;
+  --text-muted: #8a8a9a;
+
+  /* Estados */
+  --success: #2bb673;
+  --success-soft: #e7f8ef;
+  --error: #ef4068;
+  --error-soft: #fdeaf0;
+
+  /* Gradiente firma */
+  --gradient: linear-gradient(135deg, #ff6b6b, #574b90);
+  --gradient-warm: linear-gradient(135deg, #ff6b6b, #c44569);
+
+  /* Sombras coloreadas */
+  --shadow-sm: 0 4px 12px rgba(255, 107, 107, 0.15);
+  --shadow-md: 0 8px 24px rgba(255, 107, 107, 0.25);
+  --shadow-lg: 0 16px 40px rgba(87, 75, 144, 0.22);
+
+  /* Radios */
+  --radius: 20px;
+  --radius-sm: 14px;
+  --radius-lg: 28px;
+
+  /* Tipografía */
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-jp: "Noto Sans JP", "Inter", sans-serif;
+}
